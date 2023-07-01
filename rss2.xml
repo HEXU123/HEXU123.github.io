@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>动物园</title>
+    <link>http://example.com/</link>
+    
+    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>动物园里面有很多动物</description>
+    <pubDate>Sat, 01 Jul 2023 14:18:10 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>疯狂的暑期动物园</title>
+      <link>http://example.com/2023/06/30/hello-world/</link>
+      <guid>http://example.com/2023/06/30/hello-world/</guid>
+      <pubDate>Fri, 30 Jun 2023 15:49:25 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;是的，大家都知道动物园很疯狂，尤其是暑期的动物园，但是，究竟疯狂在哪一方面呢？&lt;br&gt;点击&lt;a href=&quot;https://www.baidu.com/&quot;&gt;链接&lt;/a&gt;，你会知道这一些&lt;/p&gt;
+&lt;h2 id=&quot;彻底疯狂！&quot;&gt;&lt;a href=&quot;#彻底疯狂！&quot; class=&quot;h</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>是的，大家都知道动物园很疯狂，尤其是暑期的动物园，但是，究竟疯狂在哪一方面呢？<br>点击<a href="https://www.baidu.com/">链接</a>，你会知道这一些</p><h2 id="彻底疯狂！"><a href="#彻底疯狂！" class="headerlink" title="彻底疯狂！"></a>彻底疯狂！</h2>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2023/06/30/hello-world/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
