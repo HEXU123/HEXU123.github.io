@@ -9,8 +9,30 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>动物园里面有很多动物</description>
-    <pubDate>Sat, 01 Jul 2023 14:18:10 GMT</pubDate>
+    <pubDate>Sun, 02 Jul 2023 04:59:33 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title></title>
+      <link>http://example.com/2023/07/02/test/</link>
+      <guid>http://example.com/2023/07/02/test/</guid>
+      <pubDate>Sun, 02 Jul 2023 04:56:36 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h3 id=&quot;【TiTle】&quot;&gt;&lt;a href=&quot;#【TiTle】&quot; class=&quot;headerlink&quot; title=&quot;【TiTle】&quot;&gt;&lt;/a&gt;【TiTle】&lt;/h3&gt;&lt;p&gt;身为全电大最聪明的猫，菜猫他有 $n$ 个不同水杯，为了方便喝水，菜猫给第 $i$ 号水杯里面盛上i</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h3 id="【TiTle】"><a href="#【TiTle】" class="headerlink" title="【TiTle】"></a>【TiTle】</h3><p>身为全电大最聪明的猫，菜猫他有 $n$ 个不同水杯，为了方便喝水，菜猫给第 $i$ 号水杯里面盛上i毫升水。</p><h3 id="【Content】"><a href="#【Content】" class="headerlink" title="【Content】"></a>【Content】</h3><p>有一天，猫口渴了。他决定喝一些水来解渴。因为活得太久，喝水在猫看来也应该是一种艺术，不同的水杯里的水一起喝可口程度不同。所以他决定在他的 $n$ 个水杯中挑出可口度最大的 $k$ 个水杯来喝水。这 $k$ 个水杯的可口度是他们的盛水量的最大公约数。</p><h3 id="【Standard-Input】"><a href="#【Standard-Input】" class="headerlink" title="【Standard Input】"></a>【Standard Input】</h3><p>两个空格分开的正整数 $n$ 和 $k$。<br>###【Standard Output】<br>一个整数，为最大的可口度。</p><p>输入样例</p><blockquote><p>4 2</p></blockquote><p>输出样例</p><blockquote><p>2</p></blockquote><h3 id="【样例解释】"><a href="#【样例解释】" class="headerlink" title="【样例解释】"></a>【样例解释】</h3><p>菜猫一共有 $4$ 个杯子，里面分别装了 $1$ mL，$2$ mL，$3$ mL 和 $4$ mL 水，现在要挑出两杯水，使得这些水的毫升数的最大公约数最大。可以挑选$2$ mL和 $4$ mL，这样最大公约数为 $2$，最为可口。但假如挑选的是 $1$ mL 和 $3$ mL，最大公约数仅为 $1$，不是很可口。所以可口度最大为 $2$.<br>对于 100% 的数据，$k$，$n$ $\leq$ $2\cdot 10^9$</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2023/07/02/test/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>疯狂的暑期动物园</title>
