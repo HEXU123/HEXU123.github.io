@@ -17,6 +17,24 @@
       </tags>
   </entry>
   <entry>
+    <title>疯狂的暑期动物园</title>
+    <url>/2023/06/30/hello-world/</url>
+    <content><![CDATA[<p>是的，大家都知道动物园很疯狂，尤其是暑期的动物园，但是，究竟疯狂在哪一方面呢？<br />
+点击<a href="https://www.baidu.com">链接</a>，你会知道这一些 :）</p>
+<h2 id="彻底疯狂并且测试markdown数学公式"><a class="markdownIt-Anchor" href="#彻底疯狂并且测试markdown数学公式"></a> 彻底疯狂,并且测试markdown数学公式！</h2>
+<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo fence="true">(</mo><mfrac><mi>x</mi><mi>y</mi></mfrac><mo fence="true">)</mo></mrow><annotation encoding="application/x-tex">\left(\frac{x}{y}\right)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.80002em;vertical-align:-0.65002em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size2">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.695392em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">x</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.481108em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size2">)</span></span></span></span></span></span></p>
+<h2 id="彻底疯狂并且测试markdown图片"><a class="markdownIt-Anchor" href="#彻底疯狂并且测试markdown图片"></a> 彻底疯狂，并且测试markdown图片！</h2>
+<!-- ![图片](/images/avatar.jpeg) -->
+<!-- ![图片](avatar.jpeg#pic_center) -->
+<div align = "">
+    <img src = "/images/avatar.jpeg" width = "30%j">    
+    <!-- <img src = "avatar.jpeg" width = "30%j">    
+    <img src = "avatar.jpeg" width = "30%j"> -->
+</div>
+<p>为什么！</p>
+]]></content>
+  </entry>
+  <entry>
     <title>菜猫喝水</title>
     <url>/2023/07/02/test/</url>
     <content><![CDATA[<h2 id="title"><a class="markdownIt-Anchor" href="#title"></a> 【TiTle】</h2>
@@ -48,23 +66,5 @@
         <tag>最大公约数</tag>
         <tag>观察性质</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>疯狂的暑期动物园</title>
-    <url>/2023/06/30/hello-world/</url>
-    <content><![CDATA[<p>是的，大家都知道动物园很疯狂，尤其是暑期的动物园，但是，究竟疯狂在哪一方面呢？<br />
-点击<a href="https://www.baidu.com">链接</a>，你会知道这一些 :）</p>
-<h2 id="彻底疯狂并且测试markdown数学公式"><a class="markdownIt-Anchor" href="#彻底疯狂并且测试markdown数学公式"></a> 彻底疯狂,并且测试markdown数学公式！</h2>
-<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo fence="true">(</mo><mfrac><mi>x</mi><mi>y</mi></mfrac><mo fence="true">)</mo></mrow><annotation encoding="application/x-tex">\left(\frac{x}{y}\right)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.80002em;vertical-align:-0.65002em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size2">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.695392em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">x</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.481108em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size2">)</span></span></span></span></span></span></p>
-<h2 id="彻底疯狂并且测试markdown图片"><a class="markdownIt-Anchor" href="#彻底疯狂并且测试markdown图片"></a> 彻底疯狂，并且测试markdown图片！</h2>
-<!-- ![图片](/images/avatar.jpeg) -->
-<!-- ![图片](avatar.jpeg#pic_center) -->
-<div align = "">
-    <img src = "/images/avatar.jpeg" width = "30%j">    
-    <!-- <img src = "avatar.jpeg" width = "30%j">    
-    <img src = "avatar.jpeg" width = "30%j"> -->
-</div>
-<p>为什么！</p>
-]]></content>
   </entry>
 </search>
